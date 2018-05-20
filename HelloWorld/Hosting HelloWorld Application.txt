@@ -1,0 +1,47 @@
+In Windows CMD - 
+
+pip install flask
+pip install flask-restful
+
+--------------------------------
+
+In PYTHONANYWHERE.COM -
+GOTO BASH CONSOLE - >
+
+
+mkvirtualenv --python=/usr/bin/python3.6 deploy
+
+pip install flask
+
+pip install flask-restful
+
+----------------------------------
+
+Now in /home/rahulvaish/ create a directory(folder) name it DeployHelloWorld.
+Upload your flask file HelloWorldFlask.py in this newly created folder.
+
+-----------------------------------
+
+Now we have a virtual environment and a folder with code file, we need to develop an app with configuration to link both of them -
+
+Create a new Web App -> Next -> Next -> Manual configuration-> Python 3.6 -> Next -> Next -> Default App prepared !
+Now, when the default app is made, we need to perform two major ssettings - 
+[1] Enter the name of virtual environment 'deploy' which turns the linking as '/home/rahulvaish/.virtualenvs/deploy'
+[2] Make change in the '/var/www/rahulvaish_pythonanywhere_com_wsgi.py' as below:
+
+
+
+# +++++++++++ FLASK +++++++++++
+
+import sys
+
+path = '/home/rahulvaish/DeployHelloWorld'
+if path not in sys.path:
+    sys.path.append(path)
+
+from HelloWorldFlask import app as application
+
+
+# +++++++++++ FLASK +++++++++++
+
+
