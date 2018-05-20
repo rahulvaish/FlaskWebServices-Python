@@ -3,9 +3,10 @@ In Windows CMD -
 pip install flask
 pip install flask-restful
 
-Write down your flask Service.
-Double click on the service, the service gets hosted on the localhost.
-Access the same from Postman-
+1.Write down your flask Service- PostAdditionExample.py
+2.Open CMD , navigate till the path of code.
+3.Type python PostAdditionExample.py ----> the service gets hosted on the localhost :D
+4.Now, access the same from Postman-
 
 SELECT POST[From dropdown]
 URL:http://localhost:5000/addition
