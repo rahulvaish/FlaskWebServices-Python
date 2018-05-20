@@ -1,0 +1,19 @@
+In Windows CMD - 
+
+pip install flask
+pip install flask-restful
+
+Write down your flask Service.
+Double click on the service, the service gets hosted on the localhost.
+Access the same from Postman-
+
+SELECT POST[From dropdown]
+URL:http://localhost:5000/addition
+REQUEST BODY - RAW - SELECT JSON[From dropdown]:
+{
+	"val1":"1" ,
+	"val2":"4"
+}
+HIT THE SEND BUTTON
+
+
