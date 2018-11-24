@@ -1,1 +1,1 @@
-##### This repository contains a simple Web Service example on Flask.
+This repository contains a simple Web Service example on Flask.
