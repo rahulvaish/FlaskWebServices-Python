@@ -1,2 +1,2 @@
 # **Branch Contents:**
-##### [1] Calculator : Simple Calculator Webservice in Flask.
+##### [1] Calculator : Simple Calculator Webservice implementation in Flask.
