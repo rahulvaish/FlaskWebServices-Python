@@ -39,4 +39,4 @@ api.add_resource(Multiplication, '/multiplication/<first_number>/<second_number>
 api.add_resource(Division, '/division/<first_number>/<second_number>')
 
 if __name__ == '__main__':
-     app.run()
+     app.run(debug=True,host='0.0.0.0')
