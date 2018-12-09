@@ -3,7 +3,7 @@
 
 <hr>
 
-##### To Understand Flask WebService Dockerization:
+##### To Understand how to Dockerize a Flask WebService:
 ##### [FlaskWebServiceDocker](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceDocker)
 
 
