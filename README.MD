@@ -18,7 +18,7 @@
 
 <hr>
 
-##### To Understand how to Dockerize a Flask WebService:
+##### To Understand How to Dockerize a Flask WebService:
 ##### [FlaskWebServiceDocker](https://github.com/rahulvaish/Docker-Python/tree/FlaskWebServiceDocker)
 
 
