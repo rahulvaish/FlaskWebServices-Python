@@ -2,7 +2,7 @@
 
 ##### [1] Install Flask. On Windows CMD: pip install flask
 ##### [2] Install Flask-Restful. On Windows CMD: pip install flask-restful
-##### [3] Double click on the Service file (here Calculator.py), the service gets hosted on the localhost.
+##### [3] Double click on the Service file (Example: Calculator.py), the service gets hosted on the localhost.
 ![image](https://user-images.githubusercontent.com/689226/49730554-be261800-fc9e-11e8-9b3a-8aaaab9fad7b.png)
 ##### [4] OR
 ![image](https://user-images.githubusercontent.com/689226/49730598-dbf37d00-fc9e-11e8-8d31-8135a6573ee8.png)
