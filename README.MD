@@ -8,7 +8,7 @@ This repository contains self-contained examples of Flask Web Services.
 <hr>
 
 - ###### [Calculator](https://github.com/rahulvaish/FlaskWebServices-Python/tree/Calculator) 
-   ###### Simple example illustrating Calculator Web Service in Flask. This is not meant to be executed on Cloud Environment. [[Source Code]](https://github.com/rahulvaish/FlaskWebServices-Python/tree/Calculator) 
+   ###### Simple example illustrating Calculator Web Service in Flask. [[Source Code]](https://github.com/rahulvaish/FlaskWebServices-Python/tree/Calculator) 
   - Install Flask. On Windows CMD: pip install flask
   - Install Flask-Restful. On Windows CMD: pip install flask-restful
   - Code the Web Service [[Source Code]](https://github.com/rahulvaish/FlaskWebServices-Python/tree/Calculator)
