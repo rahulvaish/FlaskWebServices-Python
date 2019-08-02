@@ -15,7 +15,7 @@ This repository contains self-contained examples of Flask Web Services.
   - Start the Web Service
   ![image](https://user-images.githubusercontent.com/689226/50307382-4df96c80-04be-11e9-8434-f4d555f43271.png)
   - Test the Web Service
-  ![image](https://user-images.githubusercontent.com/689226/50072006-b95ee800-01f9-11e9-9396-4f6a67939ac6.png)
+  ![image](https://user-images.githubusercontent.com/45539698/62387379-11274500-b578-11e9-92c5-4d93f85852b2.png)
 
 
 - ###### [Greetings](https://github.com/rahulvaish/FlaskWebServices-Python/tree/Greetings) 
