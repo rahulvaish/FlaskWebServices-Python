@@ -3,7 +3,7 @@ This repository contains self-contained examples of Flask Web Services.
 ### Table of Contents
   - <a href='#calculator'>Calculator</a> 
   - <a href='#greetings'>Greetings</a>
-
+  - <a href='#googleTranslator'>GoogleTranslator</a>
 
 <hr>
 
@@ -29,5 +29,15 @@ This repository contains self-contained examples of Flask Web Services.
   - On Azure, Create Resource -> Web -> Web App for Containers <br>
   ![image](https://user-images.githubusercontent.com/689226/54067506-da6a2e80-4266-11e9-9679-d27b8b6a0578.png)
   ![image](https://user-images.githubusercontent.com/689226/54067472-6d569900-4266-11e9-8704-62530b0890e0.png)
+
+- ###### [GoogleTranslator](https://github.com/rahulvaish/FlaskWebServices-Python/tree/GoogleTranslatorFlask) 
+   ###### Simple example illustrating Google Translator Service (English/Bangla) in Flask. [[Source Code]](https://github.com/rahulvaish/FlaskWebServices-Python/tree/GoogleTranslatorFlask) 
+  - Install Flask. On Windows CMD: pip install flask
+  - Install Flask-Restful. On Windows CMD: pip install flask-restful
+  - Code the Web Service [[Source Code]](https://github.com/rahulvaish/FlaskWebServices-Python/tree/GoogleTranslatorFlask)
+  - Start the Web Service
+  - ![image](https://user-images.githubusercontent.com/689226/84471098-49bca280-aca2-11ea-905b-3639fb3af552.png)
+
+
 
 
